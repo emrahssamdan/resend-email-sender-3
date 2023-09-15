@@ -15,7 +15,7 @@
     "resend": "^1.0.0"
   },
   "ampt": {
-    "app": "resend-email-sender",
+    "app": "resend-email-sender-3",
     "org": "emrah"
   },
   "files": [
